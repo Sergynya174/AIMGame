@@ -2,8 +2,6 @@
 
 ### Внешнеий вид приложения:
 
-![alt text](https://github.com/Sergynya174/AIMGame/blob/main/img1.png?raw=true)
-![alt text](https://github.com/Sergynya174/AIMGame/blob/main/img2.png?raw=true)
-![alt text](https://github.com/Sergynya174/AIMGame/blob/main/img3.png?raw=true)
+https://github.com/Sergynya174/AIMGame/assets/93777604/76057052-358c-4103-bfa9-a0bef0293bd6
 
 [Ссылка на проект](https://sergynya174.github.io/AIMGame/)
